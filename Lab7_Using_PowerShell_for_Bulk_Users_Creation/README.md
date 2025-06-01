@@ -1,6 +1,6 @@
 # 🧪 Lab 7 – Using PowerShell for Bulk Users Creation
 
-This lab automates the creation of user accounts in Active Directory using PowerShell and CSV input. It includes OU creation, user attribute assignment, group membership, and clean-up scripting. Completed as part of the **Network Administration AEC** program at **John Abbott College**.
+This lab automates the creation of user accounts in Active Directory using PowerShell and CSV input. It includes OU creation, user attribute assignment, group membership, and clean-up scripting. It is part of a larger lab series completed as part of the **Network Administration AEC** program at **John Abbott College**.
 
 ---
 
