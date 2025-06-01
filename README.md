@@ -1,38 +1,20 @@
-# Active Directory Labs – John Abbott College
+# 🧪 Active Directory Labs – John Abbott College
 
 This repository contains a series of completed labs from the **Network Administration AEC** program at **John Abbott College**, focused on mastering **Active Directory Domain Services (AD DS)** in a Windows Server environment.
 
-These hands-on labs cover real-world scenarios for managing domain controllers, user and group accounts, organizational units (OUs), computer objects, and automating administration tasks using PowerShell.
+These hands-on labs simulate real-world tasks for managing domain controllers, user and group accounts, organizational units (OUs), computer objects, and automating administrative tasks using PowerShell.
 
 ---
 
-## 🧪 Labs Overview
+## 🧭 Labs Overview
 
-| Lab | Title | Focus |
-|-----|-------|-------|
-| **Lab 3** | Deploying Domain Controllers | Promote new domain controllers using Server Manager and PowerShell |
-| **Lab 4** | Managing User Accounts | Create users, roaming profiles, login scripts, and OU structures |
-| **Lab 5** | Managing Group Accounts | Explore group scopes (Global, Universal, Domain Local) and nesting |
-| **Lab 6** | Managing Computers and OUs | Join computers to domain and delegate OU-level admin permissions |
-| **Lab 7** | Bulk User Creation with PowerShell | Automate user account creation using CSV input and PowerShell scripting |
-
----
-
-## 📂 Repository Structure
-
-```
-/active-directory-labs/
-├── Lab3_Deploying_Domain_Controllers/
-│   └── Lab3_GuillermoPadillaKeymole_Deploying_Domain_Controllers.pdf
-├── Lab4_Managing_User_Accounts/
-│   └── Lab4_GuillermoPadillaKeymole_Managing_User_Accounts.pdf
-├── Lab5_Managing_Group_Accounts/
-│   └── Lab5_Guillermo_Padilla_Keymole_Managing Group Accounts.pdf
-├── Lab6_Managing_Computer_Objects_OUs/
-│   └── Lab6_Guillermo_Padilla_Keymole_Managing_Computer_Objects_and_Organizational_Units.pdf
-├── Lab7_Bulk_User_Creation_PowerShell/
-│   └── Lab7_Guillermo_Padilla_Keymole_Using_PowerShell_for_bulk_users_creation.pdf
-```
+| Lab | Title | Focus | View |
+|-----|-------|-------|------|
+| **Lab 3** | Deploying Domain Controllers | Promote new domain controllers using Server Manager and PowerShell | [🔗 View Lab](./Lab3_Deploying_Domain_Controllers) |
+| **Lab 4** | Managing User Accounts | Create users, roaming profiles, login scripts, and OU structures | [🔗 View Lab](./Lab4_Managing_User_Accounts) |
+| **Lab 5** | Managing Group Accounts | Explore group scopes (Global, Universal, Domain Local) and nesting | [🔗 View Lab](./Lab5_Managing_Group_Accounts) |
+| **Lab 6** | Managing Computers and OUs | Join computers to domain and delegate OU-level admin permissions | [🔗 View Lab](./Lab6_Managing_Computer_Objects_and_Organizational_Units) |
+| **Lab 7** | Bulk User Creation with PowerShell | Automate user account creation using CSV input and PowerShell scripting | [🔗 View Lab](./Lab7_Using_PowerShell_for_Bulk_Users_Creation) |
 
 ---
 
@@ -71,7 +53,5 @@ John Abbott College
 
 ## 🌐 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/guillermo-padilla-keymole) *(Replace with your actual LinkedIn link)*  
+- [LinkedIn](https://www.linkedin.com/in/guillermo-padilla-keymole)
 - [GitHub Portfolio](https://github.com/GuillermoPKeymole)
-
----
