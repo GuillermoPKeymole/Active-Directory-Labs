@@ -1,8 +1,7 @@
 # 🧪 Lab 6 – Managing Computer Objects and Organizational Units
 
 This lab focuses on managing computer accounts and organizing them within appropriate Organizational Units (OUs). It includes delegation, permissions, and PowerShell automation for computer object administration.
-
-Completed as part of the **Network Administration AEC** program at **John Abbott College**.
+It is part of a larger lab series completed as part of the **Network Administration AEC** program at **John Abbott College**.
 
 ---
 
