@@ -1,6 +1,6 @@
 # 🧪 Lab 5 – Managing Group Accounts
 
-This lab focuses on creating, managing, and delegating access for groups in Active Directory using both the GUI and PowerShell. It is part of the Network Administration AEC program at **John Abbott College**.
+This lab focuses on creating, managing, and delegating access for groups in Active Directory using both the GUI and PowerShell. It is part of a larger lab series completed as part of the Network Administration AEC program at John Abbott College.
 
 ---
 
