@@ -1,0 +1,201 @@
+﻿FIRST NAME;LAST NAME;DEPARTEMENT
+Adam;Deschamps;Sales
+Amaury;Fleury;Sales
+Andrea _;Lefèvre;Sales
+Arnaud;Adam;Sales
+Cesar;Renault;Sales
+Constance;Perrin;Sales
+Constant;Baron;Sales
+Esther;Gautier;Sales
+Gaetan;Perrot;Sales
+Irem;Noel;Sales
+Jeremie;Langlois;Sales
+Lea;Durand;Sales
+Liam;Lebrun;Sales
+Lou;Renard;Sales
+Louis;Roux;Sales
+Mael;Hamon;Sales
+Mayeul;Gillet;Sales
+Mayssa;Roger;Sales
+Mila;Dumas;Sales
+Naim;Poulain;Sales
+Pia;Leclerc;Sales
+Renan;Lemaître;Sales
+Rose;Leclercq;Sales
+Sevan;Antoine;Sales
+Timothee;Pichon;Sales
+Tiphaine;Berger;Sales
+Ylan;Laporte;Sales
+Aaron;Louis;Call Center
+Aloès;Boucher;Call Center
+Anaïs;Muller;Call Center
+Brice;Charles;Call Center
+Clemence;Garcia;Call Center
+Elouan;LeGall;Call Center
+erine;Mathieu;Call Center
+Gael;Millet;Call Center
+Ilona;Lemaire;Call Center
+Jade;Richard;Call Center
+Jules;Leroy;Call Center
+Leo;Barre;Call Center
+Leonor;Brunet;Call Center
+Lola;Roche;Call Center
+Maeva;Picard;Call Center
+Maxime;Guichard;Call Center
+Mia;Renaud;Call Center
+Pauline;Rey;Call Center
+Quentin;Gay;Call Center
+Samuel;Reynaud;Call Center
+Thea;Hubert;Call Center
+Thomas;Cordier;Call Center
+Yanis;Carlier;Call Center
+Alix;Fontaine;Accounting
+Axelle;Blanc;Accounting
+Baptiste;Aubry;Accounting
+Clara;Thomas;Accounting
+Cylia;François;Accounting
+Dorian;Herve_;Accounting
+eleonore;Nicolas;Accounting
+Enzo;Simon;Accounting
+Etienne;Bouvier;Accounting
+Garance;Denis;Accounting
+Ilan;Germain;Accounting
+Joy;Brun;Accounting
+Kevin;Levêque;Accounting
+Lana;Joly;Accounting
+Lily;Arnaud;Accounting
+Lucie;Colin;Accounting
+Martin;Monnier;Accounting
+Noah;Fournier;Accounting
+Nolan;Chauvin;Accounting
+Oceane;Bourgeois;Accounting
+Suzanne;Jean;Accounting
+Tiago;Lamy;Accounting
+Alienor;Lambert;Finance
+Ava;Mercier;Finance
+Aymeric;Marty;Finance
+Carla;Chevalier;Finance
+Chloe_;Bernard;Finance
+Clovis;Maillard;Finance
+Damien;Bailly;Finance
+Eden;Morin;Finance
+Esteban;Leger;Finance
+Flavie;Duval;Finance
+Hugo;Cousin;Finance
+Jeanne;Meunier;Finance
+Juliette;Giraud;Finance
+Kenzo;Pelletier;Finance
+Lilou;Barbier;Finance
+Louka;Mallet;Finance
+Louna;Leroux;Finance
+Malone;Jacob;Finance
+Mathilde;Lemoine;Finance
+Nathan;Morel;Finance
+Noam;Colin;Finance
+Nour;Philippe;Finance
+Ryan;Humbert;Finance
+Sarah;Laurent;Finance
+Shana;Lopez;Finance
+Tom;Gilbert;Finance
+Zelie;Dupuis;Finance
+Aloyse;Dupont;IT
+Augustine;Andre_;IT
+Axel;Poirier;IT
+Camille;Martin;IT
+Capucine;Garnier;IT
+Clement;Menard;IT
+Diane;Clement;IT
+Erwan;Collet;IT
+Faustine;Marchand;IT
+Gildas;Leroux;IT
+Isaline;Dufour;IT
+Josselin;LeGoff;IT
+June;Blanchard;IT
+Lina;Gaillard;IT
+Loan;Weber;IT
+Louise;Roy;IT
+Malo;Boulanger;IT
+Manon;Moreau;IT
+Marie;Aubert;IT
+Mathis;Bertrand;IT
+Milo;Grondin;IT
+Nils;Chevallier;IT
+Ninon;Olivier;IT
+Romane;Rolland;IT
+Ruben;Marechal;IT
+Salome_;Lecomte;IT
+Titouan;Lejeune;IT
+Yales;Sanchez;IT
+Agathe;Bonnet;Engineering
+Alexandre;Perez;Engineering
+Anaelle;Vincent;Engineering
+Antoine;Jacquet;Engineering
+Benoît;Carr_;Engineering
+Callista;Boyer;Engineering
+Clea;Gauthier;Engineering
+Eliot;Fernandez;Engineering
+Elo;Roussel;Engineering
+Gabin;Prevost;Engineering
+Gabriel;Lefebvre;Engineering
+Heloïse;Marie;Engineering
+Inès;Robert;Engineering
+Isaac;Besson;Engineering
+Leny;Leblanc;Engineering
+Leonie;Lucas;Engineering
+Loanne;Girard;Engineering
+Mario;Caron;Engineering
+Matheo;Rodriguez;Engineering
+Oriane;Benoît;Engineering
+Paul;Bouchet;Engineering
+Thaïs;Guillot;Engineering
+Theo;Barthelemy;Engineering
+Wassim;Pasquier;Engineering
+Zoe_;Moulin;Engineering
+Adem;Vasseur;HR
+Ambre;Rousseau;HR
+Andrea;Klein;HR
+Benjamin;Guyot;HR
+Blanche;Guerin;HR
+Charlie;Legrand;HR
+Dylan;Schneider;HR
+elise;Henry;HR
+Emma;Petit;HR
+Ethan;Michel;HR
+Evan;Julien;HR
+Giulia;Dumont;HR
+Ilian;Breton;HR
+Killian;Perrier;HR
+Lina;Rivière;HR
+Livia;Martinez;HR
+Madeline;Vidal;HR
+Marvin;Michaud;HR
+Ombeline;Pierre;HR
+Oscar;DaSilva;HR
+Raphael;Girard;HR
+Tanguy;Perret;HR
+Tess;Dupuy;HR
+Valentin;Delaunay;HR
+Adrien;Huet;Purchases
+Anael;Royer;Purchases
+Apolline;Faure;Purchases
+Arthur;Paris;Purchases
+Charlie;Charpentier;Purchases
+Corentin;Bertin;Purchases
+Diva;Robin;Purchases
+Eva;Masson;Purchases
+Gaspard;Daniel;Purchases
+Iris;Meyer;Purchases
+Jordan;Remy;Purchases
+Lilian;Marchal;Purchases
+Louane;Schmitt;Purchases
+Lucas;David;Purchases
+Maelys;Dubois;Purchases
+Margot;Fabre;Purchases
+Milan;etienne;Purchases
+Morgane;Lacroix;Purchases
+Nathanael;Tessier;Purchases
+Priscilla;Payet;Purchases
+Romain;Benard;Purchases
+Sacha;Guillaume;Purchases
+Solal;Hoarau;Purchases
+Violette;Carpentier;Purchases
